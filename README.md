@@ -3,7 +3,7 @@
   
   <p>
     <img src="https://img.shields.io/github/languages/code-size/Ritusan/TypeScript-Exercise" alt="code-size" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ritusan/TypeScript-Exercise/vue?color=brightgreen" alt="dependency-version" />
+    <img src="https://img.shields.io/github/package-json/dependency-version/Ritusan/TypeScript-Exercise/typescript?color=brightgreen" alt="dependency-version" />
     <img src="https://img.shields.io/github/languages/count/Ritusan/TypeScript-Exercise" alt="languages-count" />
     <img src="https://img.shields.io/github/languages/top/Ritusan/TypeScript-Exercise?color=yellow" alt="languages-top" />
     <!-- <img src="https://img.shields.io/github/package-json/v/Ritusan/TypeScript-Exercise" alt="version" /> -->
