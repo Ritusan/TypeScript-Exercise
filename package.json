@@ -20,7 +20,7 @@
     "url": "https://github.com/Ritusan/TypeScript-Exercise/issues"
   },
   "homepage": "https://github.com/Ritusan/TypeScript-Exercise#readme",
-  "devDependencies": {
-    "typescript": "4.4.2"
+  "dependencies": {
+    "typescript": "^4.4.2"
   }
 }
