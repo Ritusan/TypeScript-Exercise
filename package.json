@@ -1,0 +1,26 @@
+{
+  "name": "typescript-exercise",
+  "version": "1.0.0",
+  "description": "typescript的练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritusan/TypeScript-Exercise.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts"
+  ],
+  "author": "Biblee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritusan/TypeScript-Exercise/issues"
+  },
+  "homepage": "https://github.com/Ritusan/TypeScript-Exercise#readme",
+  "devDependencies": {
+    "typescript": "4.4.2"
+  }
+}
